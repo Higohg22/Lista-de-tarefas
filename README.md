@@ -1,5 +1,29 @@
-# Vue 3 + Vite
+# 📝 Lista de Tarefas
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Uma aplicação de lista de tarefas desenvolvida com Vue.js e Vite.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 🌟 Visão Geral
+
+Este projeto é uma simples lista de tarefas que permite aos usuários adicionar, editar e remover tarefas. Foi desenvolvido utilizando Vue.js para a interface do usuário e Vite como ferramenta de build.
+
+## ✨ Funcionalidades
+
+- ➕ Adicionar novas tarefas
+- ✏️ Editar tarefas existentes
+- ❌ Remover tarefas
+- ✅ Marcar tarefas como concluídas
+
+## 🛠️ Tecnologias Utilizadas
+
+- [Vue.js](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
+- HTML
+- CSS
+- JavaScript
+
+## 🚀 Instalação
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Higohg22/Lista-de-tarefas.git
+
